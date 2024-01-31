@@ -1,0 +1,245 @@
+/* :root{
+
+} */
+.logo{
+    width: 100px;
+}
+.lista{
+    list-style-type: none;
+}
+.wewin{
+    margin-top: 50px;
+    transform: translateX(-70px);
+}
+header{
+    background: url(./mountains2.png), linear-gradient(180deg, hsl(0, 0%, 100%) 0%, rgba(240, 242, 243, 0.023) 100%) , url(./switzerland-862870_1920.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+h1{ 
+    letter-spacing: 70px;
+    font-size: 100px;
+    font-family: 'Nova Square', sans-serif;
+    color: darkred;
+   
+} 
+.container2{
+    background-color: hsl(0, 0%, 93%);
+}
+p{
+    font-family: 'Nova Square', sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+.testo1::before{
+    content: ' " ';
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    color: darkred;
+    font-size: 50px;
+} 
+.testo1{
+    position: relative;
+}
+.testo1::after{
+    content: ' " ';
+    position: absolute;
+    /* left: -15px;
+    top: -10px; */
+    bottom: -30px;
+    right: 270px;
+    color: darkred;
+    font-size: 50px;
+}
+.customicons{
+    font-size: 40px;
+}
+.bibo{
+   background-color:darkred;
+   height: 5px;
+   border: 10px;
+}
+.pallino1{
+    background-color: #ffffff;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    border: solid 2px;
+    border-color: darkred;
+    margin: -8px;
+}
+
+.ciaosplendidi{
+    transform: translateY(125px);
+    
+}
+h3{
+    font-family: 'Nova Square', sans-serif;
+    color: darkred;
+}
+button{
+    transform: translateY(300px);
+    height: 50px;
+    width: 250px;
+    border: none;
+    background-color:darkred;
+    color: white;
+    font-size: 30px;
+    font-family: 'Nova Square', sans-serif;
+}
+.lista{
+    transform: translateX(50px);
+}
+h2{
+    font-size: 50px;
+    font-family: 'Nova Square', sans-serif;
+    color: darkred;
+    
+   
+}
+.timeline{
+    border-left: 2px solid darkred;
+}
+.pallino::before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border: solid 2px darkred;
+    position: absolute;
+    top: 0;
+    left: -19px;
+}
+.pinosupino{
+    height: 800px;
+    width: 850px;
+    transform: translateY(165px);
+}
+.title5{
+    color: darkred;
+    font-family: 'Nova Square', sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+.paragrafodream{
+    font-family: 'Nova Square', sans-serif;
+    font-style: oblique;
+    font-size: 10px;
+}
+.titoloteam{
+    margin-top: 50px;
+    transform: translateX(100px);
+}
+.inDAblock{
+    margin-top: 50px;
+}
+.svizzera{
+    width: 150px;
+    height: 150px;
+    transform: translateX(px);
+    border-radius: 100px;
+    border: solid 2px;
+    border-color: darkred;
+    transform: translateX(135px);
+   
+
+}
+.titolomini{
+    transform: translateX(140px);
+    color: darkred;
+}
+.benefict{
+    margin-top: 200px;
+}
+.benefict1{
+    margin-top: 50px;
+    
+}
+.paragrafoinversi{
+    margin-top: 10px;
+}
+.pinipiùpini{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    border: solid 2px;
+    border-color: darkred;
+    transform: translateX(-400px);
+    
+}
+.pinipiùpini2{
+    margin-bottom: 100px;
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    border: solid 2px;
+    border-color: darkred;
+    transform: translateX(300px);
+    
+    
+}
+.paragrafoinvers1{
+    margin-top: 10px;
+}
+.footer{
+    background-color: darkred;
+}
+h4{
+    font-size: 50px;
+    font-family: 'Nova Square', sans-serif;
+    color: #ffffff;
+}
+h5{
+    font-family: 'Nova Square', sans-serif;
+    font-size: 30px;
+    color: white;
+    
+}
+.t-footer{
+    color: white;
+}
+.fine{
+    font-family: 'Nova Square', sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+    color: white;
+    margin-left: 50px;
+}
+.quick-link{
+    margin-top: 125px;
+    
+}
+/* .lista{
+    list-style-type: disc;
+} */
+
+/* .testimini{
+    font-size: 15px;
+    padding: 5px;
+} */
+
+/* @media screen and (max-width: 1000px) {
+    h1{
+        font-size: 100px;
+        font-family: 'Nova Square', sans-serif;
+        
+    } 
+    
+} 
+
+
+
+@media screen and (max-width: px) {
+    h1{
+        font-size: 100px;
+    } 
+    
+}  */
+
+
+

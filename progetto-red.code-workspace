@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/media"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "progetto-red"
+	}
+}
